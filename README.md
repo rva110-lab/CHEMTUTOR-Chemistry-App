@@ -18,8 +18,7 @@ An interactive chemistry tutoring app designed for 11th & 12th grade CBSE/NCERT 
 •⁠  ⁠And more CBSE/NCERT topics
 
 ## Try It Out
+Visit the live app: [https://chemtutor-chemistry-app.vercel.app](https://chemtutor-chemistry-app.vercel.app)
 
-Visit the live app: [https://chemtutor-chemistry-app.vercel.app.app](https://chemtutor-chemistry-app.vercel.vercel)
----
 
 Made with ❤️ for students learning chemistry.
